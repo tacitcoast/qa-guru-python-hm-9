@@ -19,3 +19,4 @@
    - Тесты сгруппированы по классу, который они тестируют.
    - Каждый тест называется именем соответствующего ему метода.
 
+<img width="1483" alt="image" src="https://github.com/tacitcoast/qaguru_python_hm_9/assets/44261093/a61191ed-7a23-42b3-a2b4-fc6407bff57e">
